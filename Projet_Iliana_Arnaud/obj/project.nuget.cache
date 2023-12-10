@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "X22cNr2xibjDaKuVQK8QFsXRlUcA4zCOdBHnCgM/DLUxcPXfM1Sih5IOMP0z0nKZzqp2aaWmhmTTEJKtf9ye7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bench\\Desktop\\Projets\\Projet_Iliana_Arnaud\\Projet_Iliana_Arnaud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bench\\.nuget\\packages\\fontawesome.sharp\\6.1.1\\fontawesome.sharp.6.1.1.nupkg.sha512",
+    "C:\\Users\\bench\\.nuget\\packages\\helixtoolkit.wpf\\2.23.0\\helixtoolkit.wpf.2.23.0.nupkg.sha512",
+    "C:\\Users\\bench\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512",
+    "C:\\Users\\bench\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'HelixToolkit.Wpf 2.23.0' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' au lieu du framework cible du projet 'net6.0-windows7.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "HelixToolkit.Wpf",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Projet_Iliana_Arnaud.View.Home">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View\UC_Home.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Controls.UserControl">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Projet_Iliana_Arnaud.View.InfoPositions">
+    <Position X="1.75" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAABBAAEAEAEgAAAAAAAAAABAAQAAACAEAAAA=</HashCode>
+      <FileName>View\InfoPositions.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Projet_Iliana_Arnaud.View.Astéroide">
+    <Position X="6.75" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACwQAAQAAAAgAABAAAAQAAQAAAAAAADAGAABAEBAAQA=</HashCode>
+      <FileName>View\UC_Astéroide.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Projet_Iliana_Arnaud.View.Map">
+    <Position X="10" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View\UC_Map.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Projet_Iliana_Arnaud.View.Mars">
+    <Position X="12.75" Y="3.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>ASAAAABQAACAwBgAAQAIAAABAAOAAAAAAAQACUIAAAg=</HashCode>
+      <FileName>View\UC_SpaceShooter.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Ressources\Image\Game\Enemy1.png" />
+    <None Remove="Ressources\Image\Game\Enemy2.png" />
+    <None Remove="Ressources\Image\Game\Enemy3.png" />
+    <None Remove="Ressources\Image\Game\Life.png" />
+    <None Remove="Ressources\Image\Game\Obstacle.png" />
+    <None Remove="Ressources\Image\Game\SpaceSheep.png" />
+    <None Remove="Ressources\Image\Logo.png" />
+    <None Remove="Ressources\Image\Texture_Asteroide.jpg" />
+    <None Remove="Ressources\Image\Texture_Terre.jpg" />
+    <None Remove="Ressources\Video\Backgroun_Space.mp4" />
+    <None Remove="Ressources\Video\Discovery_Long.mp4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FontAwesome.Sharp" Version="6.1.1" />
+    <PackageReference Include="HelixToolkit.Wpf" Version="2.23.0" />
+    <PackageReference Include="Microsoft.DependencyValidation.Analyzers" Version="0.11.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Ressources\Image\Game\Enemy1.png" />
+    <Resource Include="Ressources\Image\Game\Enemy2.png" />
+    <Resource Include="Ressources\Image\Game\Enemy3.png" />
+    <Resource Include="Ressources\Image\Game\Life.png" />
+    <Resource Include="Ressources\Image\Game\Obstacle.png" />
+    <Resource Include="Ressources\Image\Game\SpaceSheep.png" />
+    <Resource Include="Ressources\Image\Logo.png" />
+    <Resource Include="Ressources\Image\Texture_Asteroide.jpg" />
+    <Resource Include="Ressources\Image\Texture_Terre.jpg" />
+    <Resource Include="Ressources\Video\Backgroun_Space.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Ressources\Video\Discovery_Long.mp4" />
+  </ItemGroup>
+
+</Project>

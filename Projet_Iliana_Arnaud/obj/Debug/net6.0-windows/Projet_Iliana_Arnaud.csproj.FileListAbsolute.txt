@@ -1,0 +1,248 @@
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.exe
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.deps.json
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.runtimeconfig.json
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.dll
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.pdb
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.AssemblyReference.cache
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud_MarkupCompile.cache
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud_MarkupCompile.lref
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.g.resources
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.AssemblyInfoInputs.cache
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.AssemblyInfo.cs
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.CoreCompileInputs.cache
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.CopyComplete
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.dll
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\refint\Projet_Iliana_Arnaud.dll
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.pdb
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.genruntimeconfig.cache
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\ref\Projet_Iliana_Arnaud.dll
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\App.baml
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\User Control\InfoPositions.baml
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\User Control\InfoPositions.g.cs
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iliana\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.exe
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.deps.json
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.runtimeconfig.json
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.dll
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.pdb
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.AssemblyReference.cache
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\InfoPositions.baml
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\App.baml
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Astéroide.g.cs
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Home.g.cs
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\InfoPositions.g.cs
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Map.g.cs
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Mars.g.cs
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud_MarkupCompile.cache
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud_MarkupCompile.lref
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Astéroide.baml
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Home.baml
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Map.baml
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Mars.baml
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.g.resources
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.AssemblyInfoInputs.cache
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.AssemblyInfo.cs
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.CoreCompileInputs.cache
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.CopyComplete
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.dll
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\refint\Projet_Iliana_Arnaud.dll
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.pdb
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.genruntimeconfig.cache
+C:\Users\bench\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\ref\Projet_Iliana_Arnaud.dll
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.exe
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.deps.json
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.runtimeconfig.json
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.dll
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.pdb
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.AssemblyReference.cache
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\InfoPositions.baml
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\App.baml
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Astéroide.g.cs
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Home.g.cs
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\InfoPositions.g.cs
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Map.g.cs
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Mars.g.cs
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\App.g.cs
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud_MarkupCompile.cache
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud_MarkupCompile.lref
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\MainWindow.baml
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Astéroide.baml
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Home.baml
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Map.baml
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Mars.baml
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.g.resources
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.AssemblyInfoInputs.cache
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.AssemblyInfo.cs
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.CoreCompileInputs.cache
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.CopyComplete
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.dll
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\refint\Projet_Iliana_Arnaud.dll
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.pdb
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.genruntimeconfig.cache
+D:\BTS SNIR Saint Michel\C#\Projet Final API\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\ref\Projet_Iliana_Arnaud.dll
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.exe
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.deps.json
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.runtimeconfig.json
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.dll
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.pdb
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.AssemblyReference.cache
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\InfoPositions.baml
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\App.baml
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Astéroide.g.cs
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Home.g.cs
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\InfoPositions.g.cs
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Map.g.cs
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Mars.g.cs
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\App.g.cs
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud_MarkupCompile.cache
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud_MarkupCompile.lref
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Astéroide.baml
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Home.baml
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Map.baml
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\Mars.baml
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.g.resources
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.AssemblyInfoInputs.cache
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.AssemblyInfo.cs
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.CoreCompileInputs.cache
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.CopyComplete
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.dll
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\refint\Projet_Iliana_Arnaud.dll
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.pdb
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.genruntimeconfig.cache
+E:\Lycée St Michel SNIR\C#\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\ref\Projet_Iliana_Arnaud.dll
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.AssemblyReference.cache
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\InfoPositions.baml
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\App.baml
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\InfoPositions.g.cs
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_Astéroide.g.cs
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_Home.g.cs
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_Map.g.cs
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_SpaceShooter.g.cs
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud_MarkupCompile.cache
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud_MarkupCompile.lref
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.exe
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.deps.json
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.runtimeconfig.json
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.dll
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.pdb
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_Astéroide.baml
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_Home.baml
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_Map.baml
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_SpaceShooter.baml
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.g.resources
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.AssemblyInfoInputs.cache
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.AssemblyInfo.cs
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.CoreCompileInputs.cache
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.CopyComplete
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.dll
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\refint\Projet_Iliana_Arnaud.dll
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.pdb
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.genruntimeconfig.cache
+C:\Users\SN1G1\Desktop\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\ref\Projet_Iliana_Arnaud.dll
+C:\Projet API discovery\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.exe
+C:\Projet API discovery\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.deps.json
+C:\Projet API discovery\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.runtimeconfig.json
+C:\Projet API discovery\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.dll
+C:\Projet API discovery\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.pdb
+C:\Projet API discovery\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Projet API discovery\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+C:\Projet API discovery\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.AssemblyReference.cache
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\InfoPositions.baml
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\App.baml
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\InfoPositions.g.cs
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_Astéroide.g.cs
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_Home.g.cs
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_Map.g.cs
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_SpaceShooter.g.cs
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\App.g.cs
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud_MarkupCompile.cache
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud_MarkupCompile.lref
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_Astéroide.baml
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_Home.baml
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_Map.baml
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_SpaceShooter.baml
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.g.resources
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.AssemblyInfoInputs.cache
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.AssemblyInfo.cs
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.CoreCompileInputs.cache
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.CopyComplete
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.dll
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\refint\Projet_Iliana_Arnaud.dll
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.pdb
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.genruntimeconfig.cache
+C:\Projet API discovery\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\ref\Projet_Iliana_Arnaud.dll
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.exe
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.deps.json
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.runtimeconfig.json
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.dll
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Projet_Iliana_Arnaud.pdb
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.AssemblyReference.cache
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\InfoPositions.baml
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\App.baml
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\InfoPositions.g.cs
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_Astéroide.g.cs
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_Home.g.cs
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_SpaceShooter.g.cs
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud_MarkupCompile.cache
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud_MarkupCompile.lref
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_Astéroide.baml
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_Home.baml
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\View\UC_SpaceShooter.baml
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.g.resources
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.AssemblyInfoInputs.cache
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.AssemblyInfo.cs
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.CoreCompileInputs.cache
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.csproj.CopyComplete
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.dll
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\refint\Projet_Iliana_Arnaud.dll
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.pdb
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\Projet_Iliana_Arnaud.genruntimeconfig.cache
+C:\Users\bench\Desktop\Projets\Projet_Iliana_Arnaud\obj\Debug\net6.0-windows\ref\Projet_Iliana_Arnaud.dll
