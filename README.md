@@ -1,7 +1,7 @@
 <h1>🛰️ Discovery en C#</h1>
 
 <h2>🌌 Vue d'ensemble</h2>
-<p>Discovery est une application immersive qui permet aux utilisateurs d'explorer l'espace, d'afficher des informations sur les astéroïdes proches de notre planète et de s'amuser avec un space shooter intégré.Les données présentées dans l'application sont récupérées via l'API de la NASA, assurant une expérience éducative pour tous les amateurs d'astronomie.</p>
+<p>Discovery est une application immersive qui permet aux utilisateurs d'explorer l'espace, d'afficher des informations sur les astéroïdes proches de notre planète et de s'amuser avec un space shooter intégré. Les données présentées dans l'application sont récupérées via l'API de la NASA, assurant une expérience éducative pour tous les amateurs d'astronomie.</p>
 
 ---
 
